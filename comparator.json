@@ -1,0 +1,6 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Singmaster",
+  "theorem_names": ["Singmaster.statement_of_mrstt"],
+  "permitted_axioms": ["propext", "Quot.sound", "Classical.choice"]
+}
