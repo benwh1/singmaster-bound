@@ -1,5 +1,7 @@
 # Singmaster's Conjecture in Lean 4
 
+Link to paper: https://hexagonmath.org/2611.00106
+
 This is a Lean 4 and Mathlib formalisation of an upper bound on the number of representations of an
 integer as a binomial coefficient. The paper shows that the number `N(t)` of pairs `(n, m)` with
 `C(n, m) = t` satisfies
